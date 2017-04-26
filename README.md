@@ -15,7 +15,8 @@ En la aplicación podemos comprobar el uso de las siguientes técnicas Android:
 - Diseño de interfaz de usuario personalizada (XML y Shape)
 - Uso de la librera Picasso para ajustar imágenes en un CircleView
 - Tratamiento de imágenes: recortado, perfilado y centrado (Bitmap)
-- Acceso y uso de la cámara del dispositivo.
+- Acceso y uso de la cámara del dispositivo
 - Uso del elemento "TabHost" combinado con Fragmentos (TabHost + Fragment)
 - Uso completo de tareas asíncronas para gestionar los cambios de actividad, ProgressDialog y ProgressBar (AsyncTask)
-- Manejador de eventos personalizado para gestionar por completo el ListView (No se usa RecyclerView).
+- Manejador de eventos personalizado para gestionar por completo el ListView (No se usa RecyclerView)
+- Uso de la librera "GSON" para serializar los datos en modo 'JSON' e intercambiar los datos enter Actividades. 
